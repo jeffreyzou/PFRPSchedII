@@ -1,7 +1,0 @@
-#!/bin/bash
-
-./pfrpschedii 3 7 1 0
-./pfrpschedii 3 7 2 0
-./pfrpschedii 3 7 1 1
-./pfrpschedii 3 7 2 1
-
